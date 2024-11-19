@@ -61,9 +61,8 @@
   <a href="https://discord.com/users/1327" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
-  <!-- Email Icon -->
   <a href="mailto:kintalgonzalo40@gmail.com" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="email" height="50" width="50" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Iconic_email_1.svg" alt="email" height="50" width="50" />
   </a>
 </p>
   
