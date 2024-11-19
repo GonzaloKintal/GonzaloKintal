@@ -59,26 +59,19 @@
 
 <!--icons and links-->
 <p align="center">
-  <span style="margin-right: 10px;">
-    <a href="https://www.linkedin.com/in/gonzalo-kintal-071a41226/" target="blank">
-      <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-    </a>
-  </span>
-  <span style="margin-right: 10px;">
-    <a href="https://gonzalokintal.github.io/Portfolio/" target="blank">
-      <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="portfolio" height="50" width="50" />
-    </a>
-  </span>
-  <span style="margin-right: 10px;">
-    <a href="https://discord.com/users/1327" target="blank">
-      <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
-    </a>
-  </span>
-  <span>
-    <a href="mailto:kintalgonzalo40@gmail.com" target="blank">
-      <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" alt="email" height="50" width="50" />
-    </a>
-  </span>
+  <a href="https://www.linkedin.com/in/gonzalo-kintal-071a41226/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://gonzalokintal.github.io/Portfolio/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="portfolio" height="50" width="50" />
+  </a>
+  <a href="https://discord.com/users/1327" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
+  </a>
+  <a href="mailto:kintalgonzalo40@gmail.com" target="blank">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" alt="email" height="50" width="50" />
+  </a>
+</p>
 </p>
 
 
