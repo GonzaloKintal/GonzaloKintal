@@ -63,7 +63,7 @@
 <a target="_blank" href="mailto:kintalgonzalo40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://gonzalokintal.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Website&logoColor=white">
 </a>
 
 
