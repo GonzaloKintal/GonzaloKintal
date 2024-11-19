@@ -9,6 +9,7 @@
   </ul>
 </div>
 
+<p><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -28,20 +29,20 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,c,html,css,js,py,mysql,react,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,c,html,css,js,py,mysql,react,ts&perline=14" />
   </a>
 </p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Extras👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Extras🔧</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman,vscode,idea,eclipse,ps,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman,vscode,idea,eclipse,vim,ps,figma&perline=14" />
   </a>
 </p>
 
