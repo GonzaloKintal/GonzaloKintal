@@ -58,16 +58,19 @@
 </div>
 
 
-<a target="_blank" href="https://www.linkedin.com/in/gonzalo-kintal-071a41226/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:kintalgonzalo40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<!--<a target="_blank" href="https://gonzalokintal.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Website&logoColor=white">
-</a>-->
-<a target="_blank" href="https://gonzalokintal.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white">
-</a>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/gonzalo-kintal-071a41226/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  &emsp;
+  <a target="_blank" href="mailto:kintalgonzalo40@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  &emsp;
+  <a target="_blank" href="https://gonzalokintal.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Website&logoColor=white">
+  </a>
+</p>
 
 
 
