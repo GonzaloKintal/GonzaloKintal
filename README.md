@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,springboot,postgres,html,css,js,py,msql,react,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,c,html,css,js,py,msql,react,ts&perline=14" />
   </a>
 </p>
 
@@ -39,9 +39,9 @@
   </ul>
 </div>
 
-<p align="center"> git,discord,figma,github,linux,postman,vscode,photoshop
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,intellij,photoshop,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman,vscode,idea,eclipse,ps,figma&perline=14" />
   </a>
 </p>
 
