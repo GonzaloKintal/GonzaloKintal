@@ -13,6 +13,7 @@
 <div id="user-content-toc">
   <ul>
     <summary><h2 style="display: inline-block">Soy Desarrollador Junior</h2></summary>
+        <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sor Desarrollador Junior
   </ul>
 </div>
 
