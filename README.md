@@ -28,13 +28,20 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,html,java,js,mysql,py,react,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,postgres,html,css,js,py,msql,react,ts&perline=14" />
   </a>
 </p>
 
-<p align="center">
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Extras👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center"> git,discord,figma,github,linux,postman,vscode,photoshop
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,figma,github,linux,postman,vscode,photoshop&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,intellij,photoshop,figma&perline=14" />
   </a>
 </p>
 
