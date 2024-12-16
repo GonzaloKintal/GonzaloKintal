@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Soy Desarrollador</h2></summary>
+    <summary><h2 style="display: inline-block"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Soy Desarrollador Full Stack</h2></summary>
   </ul>
 </div>
 
