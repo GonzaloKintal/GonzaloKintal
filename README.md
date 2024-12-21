@@ -52,7 +52,7 @@
     <summary><h2 style="display: inline-block">Connect with me🤝</h2></summary>
   </ul>
 </div>
-
+<h3 align="left">Contact with me:</h3>
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/gonzalo-kintal-071a41226/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
