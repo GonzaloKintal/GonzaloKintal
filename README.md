@@ -1,21 +1,18 @@
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Gonzalo!</h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Gonzalo!</h1></summary>
   </ul>
 </div>
 
-<!--h2 without bottom border-->
+
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Soy Desarrollador Full Stack</h2></summary>
+    <summary><h2 style="display: inline-block"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>I'm a Full Stack Developer</h2></summary>
   </ul>
 </div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
@@ -50,28 +47,11 @@
 </table>
 
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block">Extras🔧</h2></summary>
+    <summary><h2 style="display: inline-block">Connect with me🤝</h2></summary>
   </ul>
 </div>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman,vscode,idea,eclipse,vim,ps,figma&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block">Contactate Conmigo🤝</h2></summary>
-  </ul>
-</div>
-
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/gonzalo-kintal-071a41226/">
@@ -88,6 +68,4 @@
 </p>
 
 
-
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
