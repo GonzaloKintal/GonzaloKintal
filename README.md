@@ -17,20 +17,6 @@
 </div>
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block">Tecnologías👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,c,html,css,js,py,mysql,react,ts&perline=14" />
-  </a>
-</p>-->
-
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
@@ -39,7 +25,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,mui,bootstrap,html,css,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,mui,html,css,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -51,7 +37,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,intellij,vim"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postman,vim"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
