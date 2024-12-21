@@ -63,7 +63,7 @@
   </a>
   &emsp;
   <a target="_blank" href="https://gonzalokintal.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&logoWidth=30"">
+    <img src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&logoWidth=20"">
   </a>
 </p>
 
