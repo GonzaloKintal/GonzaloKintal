@@ -62,11 +62,8 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   &emsp;
-  <!--<a target="_blank" href="https://gonzalokintal.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Website&logoColor=white">
-  </a>-->
   <a target="_blank" href="https://gonzalokintal.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    <img src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&logoWidth=30"">
   </a>
 </p>
 
