@@ -57,7 +57,7 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   &emsp;
-  <a target="_blank" href="https://gonzalokintal.github.io/Portfolio/">
+  <a target="_blank" href="https://gonzalokintal.vercel.app">
     <img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=blogger&logoColor=white">
   </a>
 </p>
