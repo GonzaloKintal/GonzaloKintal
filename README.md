@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,mui,html,css,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,mui,html,css,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
