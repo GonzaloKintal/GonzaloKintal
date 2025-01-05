@@ -84,7 +84,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Hi there 👋  
-Welcome!  
+- Welcome!  
 
 ---
 
@@ -108,8 +108,7 @@ Welcome!
 
 ---
 
-## Visit my Home Page!  
-👇  
+## Visit my Home Page! 👇
 <a target="_blank" href="https://gonzalokintal.vercel.app">
   <img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=blogger&logoColor=white">
 </a>
@@ -117,27 +116,36 @@ Welcome!
 ---
 
 ## Languages and Tools  
-
-**Backend:**  
-<img height="40" src="https://skillicons.dev/icons?i=java,spring,maven,python,c"/>
-
-**Frontend:**  
-<img height="40" src="https://skillicons.dev/icons?i=react,tailwind,mui,html,css,js,ts,figma"/>
-
-**Database:**  
-<img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql"/>
-
-**Version Control:**  
-<img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/>
-
-**IDEs:**  
-<img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea"/>
-
-**Other tools:**  
-<img height="40" src="https://skillicons.dev/icons?i=postman,vim"/>
-
-**Operating Systems:**  
-<img height="40" src="https://skillicons.dev/icons?i=ubuntu,windows"/>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,maven,python,c"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,mui,html,css,js,ts,figma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postman,vim"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=ubuntu,windows"/></td>
+    </tr>
+  </table>
 
 ---
 
