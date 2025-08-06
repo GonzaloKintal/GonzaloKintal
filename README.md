@@ -16,15 +16,15 @@
 
 ## 🧰 Tech Stack
 
-| Area            | Tools                                                                                  |
-|-----------------|-----------------------------------------------------------------------------------------|
-| **Backend**     | ![Backend](https://skillicons.dev/icons?i=java,spring,maven,python,c)                  |
-| **Frontend**    | ![Frontend](https://skillicons.dev/icons?i=react,tailwind,mui,html,css,js,ts,figma)    |
-| **Database**    | ![Database](https://skillicons.dev/icons?i=postgresql,mysql)                            |
-| **Versioning**  | ![Git](https://skillicons.dev/icons?i=git,github,gitlab)                                |
-| **IDEs**        | ![IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea)                             |
-| **Tools**       | ![Tools](https://skillicons.dev/icons?i=postman,vim)                                    |
-| **OS**          | ![OS](https://skillicons.dev/icons?i=ubuntu,windows)                                    |
+| Area            | Tools                                                                                          |
+|-----------------|-------------------------------------------------------------------------------------------------|
+| **Backend**     | ![Backend](https://skillicons.dev/icons?i=java,spring,maven,python,django,c)                   |
+| **Frontend**    | ![Frontend](https://skillicons.dev/icons?i=react,tailwind,mui,html,css,js,ts,figma)            |
+| **Database**    | ![Database](https://skillicons.dev/icons?i=postgresql,mysql)                                    |
+| **Versioning**  | ![Git](https://skillicons.dev/icons?i=git,github,gitlab)                                        |
+| **IDEs**        | ![IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio)                       |
+| **Tools**       | ![Tools](https://skillicons.dev/icons?i=postman,vim)                                            |
+| **OS**          | ![OS](https://skillicons.dev/icons?i=ubuntu,windows)                                            |
 
 ---
 
