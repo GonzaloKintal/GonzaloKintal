@@ -6,7 +6,7 @@
 
 ---
 
-- I'm **Gonzalo Kintal**, a passionate **Fullstack Developer** from Buenos Aires, Argentina.
+- I'm **Gonzalo Kintal**, a **Frontend Developer** from Buenos Aires, Argentina.
 - 💼 I hold a **Technical Degree in Computer Science**, and I'm currently completing a **Bachelor’s Degree in Information Systems**.
 - 🌱 I enjoy building clean, efficient and scalable applications.
 - 🚀 Focused on learning and improving every day.
@@ -18,12 +18,12 @@
 
 | Area            | Tools                                                                                          |
 |-----------------|-------------------------------------------------------------------------------------------------|
-| **Backend**     | ![Backend](https://skillicons.dev/icons?i=java,spring,maven,python,django,c)                   |
 | **Frontend**    | ![Frontend](https://skillicons.dev/icons?i=react,tailwind,mui,html,css,js,ts,figma)            |
+| **Backend**     | ![Backend](https://skillicons.dev/icons?i=java,spring,maven,python,django,c)                   |
 | **Database**    | ![Database](https://skillicons.dev/icons?i=postgresql,mysql)                                    |
 | **Versioning**  | ![Git](https://skillicons.dev/icons?i=git,github,gitlab)                                        |
-| **IDEs**        | ![IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio)                       |
 | **Tools**       | ![Tools](https://skillicons.dev/icons?i=postman,vim)                                            |
+| **IDEs**        | ![IDEs](https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio)                       |
 | **OS**          | ![OS](https://skillicons.dev/icons?i=ubuntu,windows)                                            |
 
 ---
