@@ -18,7 +18,7 @@
 
 | Area            | Tools                                                                                          |
 |-----------------|-------------------------------------------------------------------------------------------------|
-| **Frontend**    | ![Frontend](https://skillicons.dev/icons?i=react,tailwind,mui,html,css,js,ts,figma)            |
+| **Frontend**    | ![Frontend](https://skillicons.dev/icons?i=react,tailwind,js,ts,mui,html,css,figma)            |
 | **Backend**     | ![Backend](https://skillicons.dev/icons?i=java,spring,maven,python,django,c)                   |
 | **Database**    | ![Database](https://skillicons.dev/icons?i=postgresql,mysql)                                    |
 | **Versioning**  | ![Git](https://skillicons.dev/icons?i=git,github,gitlab)                                        |
