@@ -7,7 +7,7 @@
 ---
 
 - I'm **Gonzalo Kintal**, a **Frontend Developer** from Buenos Aires, Argentina.
-- 💼 I hold a **Technical Degree in Computer Science**, and I'm currently completing a **Bachelor’s Degree in Information Systems**.
+- 💼 I hold a **Technical Degree in Computer Science**, and I'm currently completing a **Bachelor’s Degree in Systems**.
 - 🌱 I enjoy building clean, efficient and scalable applications.
 - 🚀 Focused on learning and improving every day.
 - 🛠️ Currently developing **mobile and web apps** that solve real-world problems.
